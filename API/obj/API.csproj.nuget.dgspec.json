@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RoyCrivolotti\\Desktop\\original\\DotnetCoreReactDemo\\Controllers\\Controllers.csproj": {}
+    "C:\\Users\\RoyCrivolotti\\Desktop\\original\\DotnetCoreReactDemo\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RoyCrivolotti\\Desktop\\original\\DotnetCoreReactDemo\\Controllers\\Controllers.csproj": {
+    "C:\\Users\\RoyCrivolotti\\Desktop\\original\\DotnetCoreReactDemo\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RoyCrivolotti\\Desktop\\original\\DotnetCoreReactDemo\\Controllers\\Controllers.csproj",
-        "projectName": "Controllers",
-        "projectPath": "C:\\Users\\RoyCrivolotti\\Desktop\\original\\DotnetCoreReactDemo\\Controllers\\Controllers.csproj",
+        "projectUniqueName": "C:\\Users\\RoyCrivolotti\\Desktop\\original\\DotnetCoreReactDemo\\API\\API.csproj",
+        "projectName": "API",
+        "projectPath": "C:\\Users\\RoyCrivolotti\\Desktop\\original\\DotnetCoreReactDemo\\API\\API.csproj",
         "packagesPath": "C:\\Users\\RoyCrivolotti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RoyCrivolotti\\Desktop\\original\\DotnetCoreReactDemo\\Controllers\\obj\\",
+        "outputPath": "C:\\Users\\RoyCrivolotti\\Desktop\\original\\DotnetCoreReactDemo\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
