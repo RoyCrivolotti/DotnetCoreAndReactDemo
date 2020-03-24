@@ -36,7 +36,8 @@ namespace Controllers
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseHttpsRedirection();
+            // app.UseHttpsRedirection();
+            // properties -> launchsettings -> "applicationUrl": "https://localhost:5001;http://localhost:5000",
 
             app.UseRouting();
 
