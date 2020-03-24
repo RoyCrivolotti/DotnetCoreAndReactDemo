@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RoyCrivolotti\\Desktop\\original\\DotnetCoreReactDemo\\API\\API.csproj",
-      "projectName": "API",
-      "projectPath": "C:\\Users\\RoyCrivolotti\\Desktop\\original\\DotnetCoreReactDemo\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\RoyCrivolotti\\Desktop\\original\\DotnetCoreReactDemo\\Controllers\\Controllers.csproj",
+      "projectName": "Controllers",
+      "projectPath": "C:\\Users\\RoyCrivolotti\\Desktop\\original\\DotnetCoreReactDemo\\Controllers\\Controllers.csproj",
       "packagesPath": "C:\\Users\\RoyCrivolotti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RoyCrivolotti\\Desktop\\original\\DotnetCoreReactDemo\\API\\obj\\",
+      "outputPath": "C:\\Users\\RoyCrivolotti\\Desktop\\original\\DotnetCoreReactDemo\\Controllers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

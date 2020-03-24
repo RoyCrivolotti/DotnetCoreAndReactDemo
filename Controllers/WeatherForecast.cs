@@ -1,6 +1,6 @@
 using System;
 
-namespace API
+namespace Controllers
 {
     public class WeatherForecast
     {
